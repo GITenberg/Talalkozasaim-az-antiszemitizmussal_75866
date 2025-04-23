@@ -1,0 +1,26 @@
+_repo: Talalkozasaim-az-antiszemitizmussal_75866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nagy, Lajos
+    gutenberg_agent_id: '58189'
+    url: http://www.gutenberg.org/2009/agents/58189
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75866'
+language: hu
+pgterms:marc905: 20250328134916nagy
+pgterms:marc906: '1922'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bSzerző, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Találkozásaim az antiszemitizmussal
+url: http://www.gutenberg.org/ebooks/75866
