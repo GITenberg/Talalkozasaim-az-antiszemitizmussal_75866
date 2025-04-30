@@ -1,11 +1,16 @@
 _repo: Talalkozasaim-az-antiszemitizmussal_75866
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nagy, Lajos
     gutenberg_agent_id: '58189'
     url: http://www.gutenberg.org/2009/agents/58189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75866#Talalkozasaim-az-antiszemitizmussal
 gutenberg_issued: '2025-04-14'
 gutenberg_type: Text
 identifiers:
